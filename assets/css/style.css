@@ -794,7 +794,7 @@ p {
   z-index: 5;
   background-position: bottom center; }
 
-#particles-1 {
+#particles-js {
   position: absolute;
   top: 0;
   left: 0;
@@ -1257,7 +1257,7 @@ p {
     .footer-area::before {
       height: 1120px; } }
 
-#particles-2 {
+#particles-js2 {
   position: absolute;
   top: 0;
   left: 0;
